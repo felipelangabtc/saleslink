@@ -8,11 +8,6 @@ export default function ProjectLinks() {
           </a>
         </li>
         <li className="projects-list-item">
-          <a href="https://www.amazon.com.br/dp/B0FHFY3YMN" target="_blank" rel="noopener noreferrer">
-            Livro Físico - Bitcoin para Iniciantes e Negócios - Amazon (Em breve)
-          </a>
-        </li>
-        <li className="projects-list-item">
           <a href="https://pay.kiwify.com.br/ffKsNnl" target="_blank" rel="noopener noreferrer">
             eBook - Bitcoin para Iniciantes e Negócios - Kiwify
           </a>
