@@ -13,7 +13,6 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@400;700&display=swap"
           rel="stylesheet"
         />
-        <script defer src="https://vercel.com/analytics/script.js"></script>
       </Head>
       <body>
         <Main />
